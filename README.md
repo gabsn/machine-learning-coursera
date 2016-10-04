@@ -1,3 +1,3 @@
-# Machine learning MOOC from Coursera
+# Machine learning practical exercises
 
-_Source:_ https://www.coursera.org/learn/machine-learning
+_MOOC from Coursera:_ https://www.coursera.org/learn/machine-learning
